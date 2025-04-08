@@ -2,7 +2,7 @@ import React from 'react'
 
 const Doc = () => {
   return (
-    <div>Gand mara lavde </div>
+    <div> Documentation </div>
   )
 }
 
